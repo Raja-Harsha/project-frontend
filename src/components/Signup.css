@@ -1,0 +1,27 @@
+.signup p{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0%;
+    padding: 0.3%;
+    align-items: center;
+}
+.signup p input{
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    background-color: white;
+}
+.signup{
+    padding: 10%;
+    background-image: url("./img/signin.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.signup button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 20px;
+}
